@@ -1,0 +1,25 @@
+{
+  "name": "db-tests",
+  "version": "1.0.0",
+  "description": "DB tests definition",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtMathArt/db-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArtMathArt/db-tests/issues"
+  },
+  "homepage": "https://github.com/ArtMathArt/db-tests#readme",
+  "dependencies": {
+    "better-sqlite3": "^8.2.0",
+    "chai": "^4.3.7"
+  }
+}
